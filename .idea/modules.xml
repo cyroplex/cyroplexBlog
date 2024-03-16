@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cyroplexblog.iml" filepath="$PROJECT_DIR$/.idea/cyroplexblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cyroplexBlog.iml" filepath="$PROJECT_DIR$/.idea/cyroplexBlog.iml" />
     </modules>
   </component>
 </project>
