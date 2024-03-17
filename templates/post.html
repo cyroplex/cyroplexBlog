@@ -47,7 +47,7 @@
                 />
               </div>
               <div class="commentText">
-                {{comment.text|safe}}
+                {{comment.text|safe}} <a href="{{ url_for('delete_comment', comment_id=comment.id) }}">✘</a>
                 <span class="sub-text">{{comment.comment_author.name}}</span>
               </div>
             </li>
