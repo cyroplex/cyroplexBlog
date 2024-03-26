@@ -1,4 +1,4 @@
-# cyroplexBlog
+# Flask Blog App
 
 This project is a web application with a 3-tier architecture built with Flask web frameworks, adopting modern web development practices. The application is designed as a dynamic blogging platform with many features that allow users to view, create and comment on content stored in the database.
 
